@@ -8,17 +8,19 @@
 |64211           |  Kausar Bilal    |
 
 #### Q1. Why are we here?
-#####         Mufreah Aqeel
+##### Mufreah Aqeel
 Recommended by parents and coaching sir.
 ##### Yusra Khan
+I have interest in computer science.
 ##### Sumbul Shabbir
 ##### Namish Ali
 ##### Kausar Bilal
 
 #### Q2. Why do you think we study AI in BSCS?
 ##### Mufreah Aqeel
-Basic understanding will be needed if you wand to step in this industry.
+Basic understanding will be needed if you want to step in this industry.
 ##### Yusra Khan
+I won't drop AI if it will be offered as an elective because in future we need it the most.
 ##### Sumbul Shabbir
 ##### Namish Ali
 ##### Kausar Bilal
