@@ -16,6 +16,7 @@ I have interest in computer science.
 I have interest in computer science.
 ##### Namish Ali
 ##### Kausar Bilal
+Because of advance technology knowledge now a days
 
 #### Q2. Why do you think we study AI in BSCS?
 ##### Mufreah Aqeel
@@ -26,6 +27,7 @@ I won't drop AI if it will be offered as an elective because in future we need i
 This course is the core part of computer science and nowadays it plays a more vital role in upcoming days.
 ##### Namish Ali
 ##### Kausar Bilal
+For automation in everything that will automatically functions itself 
 
 
 
