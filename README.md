@@ -15,6 +15,7 @@ I have interest in computer science.
 ##### Sumbul Shabbir
 I have interest in computer science.
 ##### Namish Ali
+Because the coming era is of technology so we can do many things by this.
 ##### Kausar Bilal
 Because of advance technology knowledge now a days
 
@@ -26,6 +27,7 @@ I won't drop AI if it will be offered as an elective because in future we need i
 ##### Sumbul Shabbir
 This course is the core part of computer science and nowadays it plays a more vital role in upcoming days.
 ##### Namish Ali
+Because the ai is the vast field and many basic concepts and knowledge needs to be understand that's why we study ai in cs. can do much by studying computer science.
 ##### Kausar Bilal
 For automation in everything that will automatically functions itself 
 
