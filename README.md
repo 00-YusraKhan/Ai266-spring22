@@ -7,13 +7,19 @@
 |64128           |  Sumbul Shabbir  |   
 |64211           |  Kausar Bilal    |
 
-### Mufreah Aqeel
-### Yusra Khan
-### Sumbul Shabbir
-### Namish Ali
-### Kausar Bilal
+### Q1. Why are we here?
+#### Mufreah Aqeel
+#### Yusra Khan
+#### Sumbul Shabbir
+#### Namish Ali
+#### Kausar Bilal
 
-
+### Q2. Why do you think we study AI in BSCS?
+#### Mufreah Aqeel
+#### Yusra Khan
+#### Sumbul Shabbir
+#### Namish Ali
+#### Kausar Bilal
 
 
 
