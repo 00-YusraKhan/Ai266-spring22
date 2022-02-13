@@ -13,6 +13,7 @@ Recommended by parents and coaching sir.
 ##### Yusra Khan
 I have interest in computer science.
 ##### Sumbul Shabbir
+I have interest in computer science.
 ##### Namish Ali
 ##### Kausar Bilal
 
@@ -22,6 +23,7 @@ Basic understanding will be needed if you want to step in this industry.
 ##### Yusra Khan
 I won't drop AI if it will be offered as an elective because in future we need it the most.
 ##### Sumbul Shabbir
+This course is the core part of computer science and nowadays it plays a more vital role in upcoming days.
 ##### Namish Ali
 ##### Kausar Bilal
 
