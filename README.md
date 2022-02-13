@@ -9,6 +9,7 @@
 
 #### Q1. Why are we here?
 ##### Mufreah Aqeel
+Recommended by parents and coaching sir.
 ##### Yusra Khan
 ##### Sumbul Shabbir
 ##### Namish Ali
@@ -16,6 +17,7 @@
 
 #### Q2. Why do you think we study AI in BSCS?
 ##### Mufreah Aqeel
+Basic understanding will be needed if you wand to step in this industry.
 ##### Yusra Khan
 ##### Sumbul Shabbir
 ##### Namish Ali
