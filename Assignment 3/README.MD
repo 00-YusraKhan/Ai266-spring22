@@ -12,3 +12,7 @@ WORKED ON LIDSTONE SMOOTHING
 
 ![kaggelAss_03](https://user-images.githubusercontent.com/99585437/168901579-cd178d49-975f-46d1-a03e-ec7307f29356.jpeg)
 
+
+#### MUFREAH AQEEL 64162
+WORKED ON SVM(support vector machines)
+![ai thoeyr ass 3](https://user-images.githubusercontent.com/99583155/169010273-64e14c44-ddd4-4deb-bd5d-4d99de7391c5.jpeg)
