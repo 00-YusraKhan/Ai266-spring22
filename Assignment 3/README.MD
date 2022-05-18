@@ -14,7 +14,8 @@ WORKED ON LIDSTONE SMOOTHING
 
 
 ### MUFREAH AQEEL 64162
-WORKED ON SVM(support vector machines)
+WORKED ON SVM(support vector machines):
+Support Vector Machine is a supervised machine learning algorithm that can be used for both classification or regression challenges. In the SVM algorithm, we plot each data item as a point in n-dimensional space with the value of each feature being the value of a particular coordinate.  
 ![ai thoeyr ass 3](https://user-images.githubusercontent.com/99583155/169010273-64e14c44-ddd4-4deb-bd5d-4d99de7391c5.jpeg)
 
 
