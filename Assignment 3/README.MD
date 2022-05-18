@@ -2,6 +2,9 @@
 ### YUSRA KHAN 64146
 WORKED ON KNN
 
+K-Nearest Neighbour.  It classifies the data point on how its neighbor is classified based on the similarity measure of the earlier stored data points.
+It take alot of time to train a model.
+
 ![KAGGLE](https://user-images.githubusercontent.com/99583325/168898208-be39d028-3d34-4524-bb20-a77883aec329.jpeg)
 
 #### SUMBUL SHABBIR 64128
