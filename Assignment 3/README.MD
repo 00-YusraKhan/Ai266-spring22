@@ -8,7 +8,8 @@ It take alot of time to train a model.
 ![KAGGLE](https://user-images.githubusercontent.com/99583325/168898208-be39d028-3d34-4524-bb20-a77883aec329.jpeg)
 
 ### SUMBUL SHABBIR 64128
-WORKED ON LIDSTONE SMOOTHING
+WORKED ON LIDSTONE SMOOTHING.
+Laplace smoothing is a smoothing technique that helps tackle the problem of zero probability in the Naïve Bayes machine learning algorithm.It works well enough in text classification problems such as spam filtering and the classification of reviews as positive or negative.
 
 ![kaggelAss_03](https://user-images.githubusercontent.com/99585437/168901579-cd178d49-975f-46d1-a03e-ec7307f29356.jpeg)
 
