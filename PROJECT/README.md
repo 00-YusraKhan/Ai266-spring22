@@ -13,3 +13,8 @@ In laplace i have used the grid as well as confusion matrix for finding the accu
 
 
 ![namish](https://user-images.githubusercontent.com/99584430/169521901-4ead8cbd-d1b1-4745-99f4-e5a3e67e5d6f.jpeg)
+
+
+### MUFREAH AQEEL 64162
+#### SVM
+![kaggle](https://user-images.githubusercontent.com/99583155/169557921-5b51268b-ff25-42bc-8454-d686025c7152.JPG)
