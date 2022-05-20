@@ -8,7 +8,7 @@
 
 
 ### Syeda Namish ALi 64179
-####
+#### LAPLACE(KNAIVE BIASE)
 
 
 ![namish](https://user-images.githubusercontent.com/99584430/169521901-4ead8cbd-d1b1-4745-99f4-e5a3e67e5d6f.jpeg)
