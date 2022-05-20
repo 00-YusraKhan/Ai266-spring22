@@ -21,7 +21,7 @@ Support Vector Machine is a supervised machine learning algorithm that can be us
 
 
 
-### NAMISH ALI 64176
+### NAMISH ALI 64179
 WORKED ON LAPLACE(KNAIVE BIASE):
 laplace is a smoothing technique that help tackle the problem of zero probabilityin the naive bayes machine learning algorithm. using higher alpha values will push the likelihood towards a value of 0.5 and that is the probability of a word equal to 0.5 for both the positive and negative reviews.
 ![WhatsApp Image 2022-05-18 at 2 30 16 AM](https://user-images.githubusercontent.com/99584430/169028566-716b6876-84cd-4885-97c3-a5ff9c2c0899.jpeg)
