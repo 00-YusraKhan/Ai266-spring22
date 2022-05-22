@@ -5,10 +5,10 @@
 2. It's easy to implement and understand, but has a major drawback of becoming slow as the size of data increases.
 ###### Problems We face
 1. KNN didn't work properly on the large data set and in this project we have a very large data.
-2. Its memory intensive.
-3. It took alot of time while training data.
-4. Our project accuracy is not upto mark because we can not implement deep learning algorithms here.
-5. It took several hours to train data and getting accuracy so that we implement it manually and got the increasing accuracy in some minutes. 
+2. We applied KNN which is lazy model if we apply any other more efficient algorithm of machine learning or deep learning so maybe the results would be different.
+3. Its memory intensive.
+4. It took alot of time while training data.
+5. It took alot of time to train data and getting accuracy so that we implement it manually and got the increasing accuracy in some hours. 
 
 
 
