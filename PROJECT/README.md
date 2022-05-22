@@ -31,7 +31,7 @@ In laplace i have used the grid as well as confusion matrix for finding the accu
 ### Sumbul Shabbir 64128
 #### Lidstone Smoothing
 In this i have used grid search, minmax algorithm and Multinomial Naive Bayes Model.
-#####PROBLEM I FACE:
+###### PROBLEM I FACE:
 I Tried Almost all alpha value but accuracy does not go beyond 54 even if I increase the value of alpha or cross validation there is no any big effect on the accuracy. 
 ![assignment03](https://user-images.githubusercontent.com/99585437/169690182-6c4912b6-8f0e-47d2-bea1-f25c70e8436a.jpeg)
 
