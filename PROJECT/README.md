@@ -1,7 +1,10 @@
 # GROUP MEMBERS
 ### YUSRA KHAN 64146
 #### WORKED ON KNN
-
+KNN is basically a non-parameteric, lazy learning algorithm that can be used to solve classification problems.
+It's easy to implement and understand, but has a major drawback of becoming slow as the size of data increases.
+So here we got that KNN didn't work properly on the large data set and in his project we have a very large data.
+Accuracy is not upto mark because we can not implement deep learning algorithms here.
 
 
 
