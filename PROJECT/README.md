@@ -32,6 +32,14 @@ In laplace i have used the grid as well as confusion matrix for finding the accu
 #### Lidstone Smoothing
 In this i have used grid search, minmax algorithm and Multinomial Naive Bayes Model.
 ###### PROBLEM I FACE:
+
+
 I Tried Almost all alpha value but accuracy does not go beyond 54 even if I increase the value of alpha or cross validation there is no any big effect on the accuracy. 
 ![assignment03](https://user-images.githubusercontent.com/99585437/169690182-6c4912b6-8f0e-47d2-bea1-f25c70e8436a.jpeg)
 
+
+### Kausar Bilal 64211
+#### perceptron
+In this I have used two-class (binary) classification machine learning algorithm. It is a type of neural network model, perhaps the simplest type of neural network model. It consists of a single node or neuron that takes a row of data as input and predicts a class label.
+###### PROBLEM I FACE:
+in accuracy
