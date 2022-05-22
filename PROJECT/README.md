@@ -18,3 +18,8 @@ In laplace i have used the grid as well as confusion matrix for finding the accu
 ### MUFREAH AQEEL 64162
 #### SVM
 ![kaggle](https://user-images.githubusercontent.com/99583155/169557921-5b51268b-ff25-42bc-8454-d686025c7152.JPG)
+
+### Sumbul Shabbir 64128
+#### Lidstone Smoothing 
+![assignment03](https://user-images.githubusercontent.com/99585437/169690182-6c4912b6-8f0e-47d2-bea1-f25c70e8436a.jpeg)
+
