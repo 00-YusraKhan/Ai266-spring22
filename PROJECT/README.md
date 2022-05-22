@@ -3,8 +3,8 @@
 #### WORKED ON KNN
 1. KNN is basically a non-parameteric, lazy learning algorithm that can be used to solve both classification and regression problems.
 2. It's easy to implement and understand, but has a major drawback of becoming slow as the size of data increases.
-3. Problems We face
-a. KNN didn't work properly on the large data set and in this project we have a very large data.
+###### Problems We face
+4. KNN didn't work properly on the large data set and in this project we have a very large data.
 b. Its memory intensive.
 c. It took alot of time while training data.
 d. Our project accuracy is not upto mark because we can not implement deep learning algorithms here.
