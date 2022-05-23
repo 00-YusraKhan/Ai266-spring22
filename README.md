@@ -1,3 +1,4 @@
+
 # Ai266-spring22
 |  Student IDS   |   Student Names  |
 |----------------|------------------|
@@ -30,6 +31,9 @@ This course is the core part of computer science and nowadays it plays a more vi
 Because the ai is the vast field and many basic concepts and knowledge needs to be understand that's why we study ai in cs. can do much by studying computer science.
 ##### Kausar Bilal
 For automation in everything that will automatically functions itself 
+![11](https://user-images.githubusercontent.com/105318630/169858009-607399f9-f45e-41b0-a642-2f20a83fdd02.PNG)
+![12](https://user-images.githubusercontent.com/105318630/169858013-8d2a8503-0b17-4292-a278-8671acb3309d.PNG)
+![13](https://user-images.githubusercontent.com/105318630/169858015-6f6c991b-1787-4be2-ac9a-0e7d17ee7341.PNG)
 
 
 
