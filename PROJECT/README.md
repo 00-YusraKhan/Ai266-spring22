@@ -26,6 +26,12 @@ In laplace i have used the grid as well as confusion matrix for finding the accu
 
 ### MUFREAH AQEEL 64162
 #### SVM
+Support Vector Machine is a linear model for classification and regression problems. It can solve linear and non-linear problems and work well for many practical problems. The idea of SVM is simple: The algorithm creates a line or a hyperplane which separates the data into classes.
+####### Issues faced during training:
+1. dataset was having memory issue
+2. it was time consuming
+3. laptop was heated rapidly and was not able to handle the processing.
+4. cloud storage might be able to solve the problem by breaking it into small parts.
 ![kaggle](https://user-images.githubusercontent.com/99583155/169557921-5b51268b-ff25-42bc-8454-d686025c7152.JPG)
 
 ### Sumbul Shabbir 64128
