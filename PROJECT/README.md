@@ -19,6 +19,11 @@
 ### Syeda Namish ALi 64179
 #### LAPLACE(KNAIVE BIASE)
 In laplace i have used the grid as well as confusion matrix for finding the accuracy. The problem was there were no any big effect on the accuracy by applying these algorithm and they are consuming too much time and the data are also very large.
+### problems:
+1. The data is very vast so it is taking too much time to train the data and laptop was heated.
+2. I have applied the grid and confusion matrix for the accuracy but the accuracy is not so good.
+3. I have checked the accuracy manually but it is still same.
+4. After increasing the values the accuracy is not increasing.
 
 
 ![namish](https://user-images.githubusercontent.com/99584430/169521901-4ead8cbd-d1b1-4745-99f4-e5a3e67e5d6f.jpeg)
