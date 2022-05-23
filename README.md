@@ -18,7 +18,7 @@ I have interest in computer science.
 Because the coming era is of technology so we can do many things by this.
 ##### Kausar Bilal
 Because of advance technology knowledge now a days
-
+and it has great scope in future and present
 #### Q2. Why do you think we study AI in BSCS?
 ##### Mufreah Aqeel
 Basic understanding will be needed if you want to step in this industry.
