@@ -44,8 +44,7 @@ Support Vector Machine is a linear model for classification and regression probl
 In this i have used grid search, minmax algorithm and Multinomial Naive Bayes Model.
 ###### PROBLEM I FACE:
 
-
-I Tried Almost all alpha value but accuracy does not go beyond 54 even if I increase the value of alpha or cross validation there is no any big effect on the accuracy. 
+I Tried Almost all alpha value but accuracy does not go beyond 54 even if I increase the value of alpha or cross validation there is no any big effect on the accuracy. Maybe it will increase when we will take big value but it will more take too much time and my laptop not be able to handle this processing.
 ![assignment03](https://user-images.githubusercontent.com/99585437/169690182-6c4912b6-8f0e-47d2-bea1-f25c70e8436a.jpeg)
 
 
